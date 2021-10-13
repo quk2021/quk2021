@@ -1,7 +1,7 @@
 
 - Hi, I’m @quk2021
     * The "quk" stands for "quest knowledge". 
-    * As for "2021", Scala 3, was released on 2021. Scala plays a key role here.
+    * As for "2021", it is related to "Scala 3", which was released on 2021. Scala plays a key role here.
  
 - I’m interested in A, B, and C: AI, Big-data, Cloud-computing. Again, scala is the key in the mix. 
 
