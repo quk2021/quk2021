@@ -1,9 +1,10 @@
 
 - Hi, I’m @quk2021
-    * The "quk" stands for "quest knowledge". 
-    * As for "2021", it is related to "Scala 3", which was released on 2021. Scala plays a key role here.
- 
-- I’m interested in A, B, and C: AI, Big-data, Cloud-computing. Again, scala is the key in the mix. 
+    - The "quk" stands for "quest knowledge". 
+    - As for "2021", it is related to "scala 3", which was released on 2021. 
+        - I believe scala, particularly "scala 3", plays a key role in "quest knowledge".
+            - The reason: scala is critical for Big-data, and in turn for AI.    
+                - And, by the way :-) I’m interested in A, B, and C: AI, Big-data, and Cloud-computing. 
 
 - How to reach me: quk2021@gmail.com
 
